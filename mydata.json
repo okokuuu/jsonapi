@@ -1,8 +1,8 @@
 [   
-    {"id" : 1,"name" : "Cookies Cream Cupcake", "price" : 5, "image" : "cookiesCreamCupcake.jpg","description":"Calling all cookies and cream lovers! Don’t miss out on this cookies and cream cupcake with a mini Oreo on top!"},
-    {"id" : 2,"name" : "Oreo Cupcake", "price" : 3, "image" : "oreoCupcake.jpg","description":"Rich dark chocolate cupcake with our classic vanilla cream cheese frosting. Other than the Oreo cookie at the top, we have added a generous amount of Oreo crumble to the batter."},
-    {"id" : 3,"name" : "Red Velvet Cupcake", "price" : 4, "image" : "redVelvetCupcake.jpg","description":"With the gluten-free white cake base, a little cocoa, dairy-free buttermilk, and vinegar topped with rich cream cheese. This gluten free velvety cupcake is unique and delicious!"},
-    {"id" : 4,"name" : "Rose Cupcake", "price" : 20,"image" : "roseCupcake.jpg","description":"A fragranced cupcake vanilla and rose frosting. Made with organic rose water, it is a cupcake you can’t stop smelling and eating!"},
-    {"id" : 5,"name" : "Strawberry Yogurt Cupcake", "price" : 10,"image" : "strawberryYogurtCupcake.jpg","description":"Strawberry cupcake with strawberry yogurt buttercream with granulated monkfruit sweetener sprinkles.  Absolutely a healthy choice!"},
-    {"id" : 6,"name" : "Tiramisu Cupcake", "price" : 5,"image" : "tiramisuCupcake.jpg","description":"This cupcake is made from the perfect ratio of espresso and coffee liquor."}
+    {"id" : 1,"name" : "Cookies Cream Cupcake", "price" : 25, "image" : "cookiesCreamCupcake.jpg","description":"Calling all cookies and cream lovers! Don’t miss out on this cookies and cream cupcake with a mini Oreo on top!"},
+    {"id" : 2,"name" : "Oreo Cupcake", "price" : 30, "image" : "oreoCupcake.jpg","description":"Rich dark chocolate cupcake with our classic vanilla cream cheese frosting. Other than the Oreo cookie at the top, we have added a generous amount of Oreo crumble to the batter."},
+    {"id" : 3,"name" : "Red Velvet Cupcake", "price" : 33, "image" : "redVelvetCupcake.jpg","description":"With the gluten-free white cake base, a little cocoa, dairy-free buttermilk, and vinegar topped with rich cream cheese. This gluten free velvety cupcake is unique and delicious!"},
+    {"id" : 4,"name" : "Rose Cupcake", "price" : 31,"image" : "roseCupcake.jpg","description":"A fragranced cupcake vanilla and rose frosting. Made with organic rose water, it is a cupcake you can’t stop smelling and eating!"},
+    {"id" : 5,"name" : "Strawberry Yogurt Cupcake", "price" : 32,"image" : "strawberryYogurtCupcake.jpg","description":"Strawberry cupcake with strawberry yogurt buttercream with granulated monkfruit sweetener sprinkles.  Absolutely a healthy choice!"},
+    {"id" : 6,"name" : "Tiramisu Cupcake", "price" : 35,"image" : "tiramisuCupcake.jpg","description":"This cupcake is made from the perfect ratio of espresso and coffee liquor."}
 ]
