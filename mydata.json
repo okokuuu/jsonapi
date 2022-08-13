@@ -2,7 +2,7 @@
     {"id" : 1,"name" : "Cookies Cream Cupcake", "price" : 5, "image" : "cookiesCreamCupcake.jpg","description":"yummy"},
     {"id" : 2,"name" : "Oreo Cupcake", "price" : 3, "image" : "oreoCupcake.jpg","description":"新鮮橙50克，又甜又好吃"},
     {"id" : 3,"name" : "Red Velvet Cupcake", "price" : 4, "image" : "redVelvetCupcake.jpg","description":"新鮮芒500克，宜做甜品"},
-    {"id" : 4,"name" : "Rose Cupcake", "price" : 20,"image" : "roseCupcake.jpg","description":"新鮮西瓜2公斤，夏季必備"},
-    {"id" : 5,"name" : "Strawberry Yogurt Cupcake", "price" : 10,"image" : "strawberryYogurtCupcake.jpg","description":"新鮮藍梅50克，補眼之寶"},
-    {"id" : 6,"name" : "Tiramisu Cupcake", "price" : 5,"image" : "tiramisuCupcake.jpg","description":"新鮮白蘿蔔1公斤，宜煲湯"}
+    {"id" : 4,"name" : "Rose Cupcake", "price" : 20,"image" : "roseCupcake.jpg","description":"A fragranced cupcake vanilla and rose frosting. Made with organic rose water, it is a cupcake you can’t stop smelling and eating!"},
+    {"id" : 5,"name" : "Strawberry Yogurt Cupcake", "price" : 10,"image" : "strawberryYogurtCupcake.jpg","description":"Strawberry cupcake with strawberry yogurt buttercream with granulated monkfruit sweetener sprinkles.  Absolutely a healthy choice!"},
+    {"id" : 6,"name" : "Tiramisu Cupcake", "price" : 5,"image" : "tiramisuCupcake.jpg","description":"This cupcake is made from the perfect ratio of espresso and coffee liquor."}
 ]
